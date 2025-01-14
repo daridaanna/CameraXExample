@@ -1,0 +1,69 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android Studio
+.idea/
+.gradle/
+local.properties
+.DS_Store
+
+# Android
+/build/
+**/build/
+
+# Kotlin/Java
+*.iml
+*.class
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+.gradle/cache/
+.gradle/daemon/
+.gradle/init-scripts/
+.gradle/gradle-app-setting.jar
+.gradle/vcs-1/
+!gradle-wrapper.properties
+
+# Generated binary files
+*.apk
+*.ap_
+*.dex
+*.jar
+*.keystore
+*.log
+
+# Miscellaneous
+*.log
+*.xml
+*.hprof
+*.swp
+*.orig
+*.pyc
+*.pyo
+*.dmp
+*.db
+
+# Local IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other
+caches/
+output/
+
